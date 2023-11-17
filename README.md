@@ -4,7 +4,11 @@
 
 ## 프로젝트 개요
 
-- **기술 스택**: HTML, CSS, JavaScript, Java Server Pages
+- **기술 스택**
+- HTML![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- CSS![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- JavaScript![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- Eclipse ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
 - **프로젝트 기간**: 2022년 4월 ~ 2022년 7월
 
 ## 역할
@@ -25,7 +29,7 @@
 
 ## 프로젝트 링크
 
-[불면증 자가진단 웹 사이트](https://github.com/971023als/jsp)
+[불면증 자가진단](https://github.com/971023als/jsp)
 
 ---
 
